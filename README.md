@@ -85,6 +85,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 * [Phone](#phone)
 * [Photography](#photography)
 * [Programming](#programming)
+* [Religion](#religion)
 * [Science & Math](#science--math)
 * [Security](#security)
 * [Shopping](#shopping)
@@ -1420,6 +1421,16 @@ API | Description | Auth | HTTPS | CORS |
 **[⬆ Back to Index](#index)**
 <br >
 <br >
+
+### Religion
+API | Description | Auth | HTTPS | CORS |
+|:---|:---|:---|:---|:---|
+| [Naikiyah](https://dua-data-api.vercel.app) | Islamic content API — duas, adkar, 40 Hadith, fiqh basics, and prayer guide | No | Yes | Yes |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
+
 ### Science & Math
 API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
